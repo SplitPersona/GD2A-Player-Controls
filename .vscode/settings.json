@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GD2a-PlayerController.sln"
+    "dotnet.defaultSolution": "GD2a-PlayerController-main.sln"
 }
